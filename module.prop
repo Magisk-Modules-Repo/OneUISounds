@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=OneUISounds
+name=One UI Sounds
+version=1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=LeddaZ
+description=Replaces system sounds with One UI's media.

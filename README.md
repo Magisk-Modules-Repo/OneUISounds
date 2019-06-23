@@ -1,7 +1,7 @@
-# Magisk Installer
+# One UI Sounds
 
-**Update `README.md` if you want to submit your module to the online repo!**
+This module replaces your device's stock system sounds (notifications, rigtones, alarms and UI sounds) with One UI's sounds; files taken from the Exynos Galaxy S10+ stock ROM based on One UI 1.1 (G975FXXU1ASE7).
 
-For more information about how to use this module installer, please refer to [documentations](https://topjohnwu.github.io/Magisk/guides.html)
+## Requirements
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+- Magisk v19+
