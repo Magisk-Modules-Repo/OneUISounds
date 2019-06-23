@@ -4,4 +4,6 @@ This module replaces your device's stock system sounds (notifications, rigtones,
 
 ## Requirements
 
-- Magisk v19+
+-   [![Magisk](https://img.shields.io/badge/Magisk-19%2B-00B39B.svg)](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445)
+
+This module may not replace all UI sounds if your ROM uses different filenames.
